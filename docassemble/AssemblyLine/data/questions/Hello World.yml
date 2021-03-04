@@ -1,0 +1,7 @@
+question: Hello, ${first_name} ${last_name}!
+mandatory: True
+---
+question: What is your full legal name?
+fields:
+  - First Name: first_name
+  - Last Name: last_name
